@@ -1,0 +1,13 @@
+# Sesión del navegador (cookies y credenciales de X): nunca versionar
+chrome_profile/
+
+# Datos y resultados de cada usuario
+resultados/
+codebook/
+
+# Preferencias locales
+preferencias.json
+
+# Bytecode de Python
+__pycache__/
+*.pyc
